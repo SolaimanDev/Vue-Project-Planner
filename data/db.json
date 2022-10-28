@@ -1,0 +1,28 @@
+{
+  "Projects": [
+    {
+      "id": 1,
+      "title": "Web Design",
+      "details": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly.",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Web Development",
+      "details": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly.",
+      "complete": false
+    },
+    {
+      "title": "Digital Marketing ",
+      "details": "harum nesciunt ipsum debitis quas aliquid. Reprehenderit\n\n",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "SEO Optimize",
+      "details": "harum nesciunt ipsum debitis quas aliquid. Reprehenderit,\nquia. Quo neque error repudiandae fuga",
+      "complete": true,
+      "id": 4
+    }
+  ]
+}
